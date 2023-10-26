@@ -1,0 +1,6 @@
+en visual code
+mkdir interface
+tensorflow_converter --input_format keras modelo_perro_gato.h5
+
+desde cmd
+python -m http.server 8000
